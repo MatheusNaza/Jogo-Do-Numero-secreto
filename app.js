@@ -55,7 +55,7 @@ function limparCampo() {
 }
 
 function reiniciarJogo() {
-  let NumeroSecreto = gerarNumeroAleatorio();
+  NumeroSecreto = gerarNumeroAleatorio();
   limparCampo();
   tentativas = 1;
   MensagemInicial();
