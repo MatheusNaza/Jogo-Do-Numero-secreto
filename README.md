@@ -49,6 +49,10 @@
 
 ![foto_jogo_numero_secreto](https://github.com/user-attachments/assets/edfa37b9-dffe-4ae5-b2de-82adcedde4ee)
 
+<p align="center">
+  <i>imagem da pagina inicial do jogo! 🚀</i>
+</p>
+
 ---
 
 ## 📈 Melhorias Futuras
