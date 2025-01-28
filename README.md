@@ -1,0 +1,66 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3627F7&background=FF56FF00&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=🎮+Jogo+Do+Numero+Secreto" alt="Typing SVG" />
+  </a>
+</div>
+
+## 📝 Descrição
+**Jogo Do Numero Secreto** é um divertido jogo de adivinhação, onde você precisa descobrir o número secreto gerado aleatoriamente. Ideal para desafiar sua sorte e lógica! Desenvolvido com **HTML**, **CSS** e **JavaScript**, o jogo oferece uma experiência moderna e responsiva, incluindo feedbacks auditivos.
+
+---
+
+## 🚀 Funcionalidades
+- 🖥️ **Interface responsiva**: Adapta-se a diferentes tamanhos de tela.
+- 🔢 **Número aleatório**: Descubra um número entre **1 e 100**.
+- ⏱️ **Contador de tentativas**: Veja quantas vezes você tentou.
+- 📢 **Feedbacks claros**: Receba dicas se o número secreto é maior ou menor.
+- 🔁 **Reinício fácil**: Comece um novo jogo com apenas um clique.
+- 🗣️ **Feedback por voz**: Mensagens auditivas utilizando a biblioteca `responsivevoice.js`.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- **HTML**: Estrutura do jogo.
+- **CSS**: Estilização visual e responsividade.
+- **JavaScript**: Lógica e interatividade.
+
+---
+
+## 📖 Como Executar o Projeto
+1. Certifique-se de ter um navegador atualizado.
+2. Faça o download ou clone este repositório:
+   ```bash
+   git clone https://github.com/MatheusNaza/Jogo-Do-Numero-secreto
+   ```
+3. Navegue até a pasta do projeto e abra o arquivo `index.html` no navegador.
+
+---
+
+## 🗂️ Estrutura do Projeto
+```
+├── index.html       # Arquivo principal
+├── style.css        # Estilização do jogo
+├── app.js           # Lógica do jogo
+└── img/             # Imagens para design
+```
+
+---
+
+## 🌟 Capturas de Tela
+
+
+---
+
+## 📈 Melhorias Futuras
+- 🔥 Adicionar níveis de dificuldade.
+- 🏆 Implementar tabela de recordes.
+- 🌍 Tradução para outros idiomas.
+
+---
+
+## 🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir **issues** ou enviar **pull requests**.
+
+---
+
+Desenvolvido com 💙 por MatheusNaza.
