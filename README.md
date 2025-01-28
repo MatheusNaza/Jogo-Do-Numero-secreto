@@ -1,5 +1,5 @@
 
-< p align = " centro ">
+<p align = " centro ">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=251DF7&center=true&width=435&lines=%F0%9F%8E%AE+Jogo+Do+Numero+Secreto)](https://git.io/typing-svg)
 </p>
 ## 📝 Descrição
