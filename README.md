@@ -48,6 +48,7 @@
 
 ## 🌟 Capturas de Tela
 
+![foto_jogo_numero_secreto](https://github.com/user-attachments/assets/edfa37b9-dffe-4ae5-b2de-82adcedde4ee)
 
 ---
 
@@ -55,6 +56,7 @@
 - 🔥 Adicionar níveis de dificuldade.
 - 🏆 Implementar tabela de recordes.
 - 🌍 Tradução para outros idiomas.
+
 
 ---
 
