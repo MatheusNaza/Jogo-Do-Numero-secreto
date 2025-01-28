@@ -1,7 +1,5 @@
-<div aling = "center">
- 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=251DF7&width=435&lines=%F0%9F%8E%AE+Jogo+Do+Numero+Secreto)](https://git.io/typing-svg)  
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+
 ## 📝 Descrição
 **Jogo Do Numero Secreto** é um divertido jogo de adivinhação, onde você precisa descobrir o número secreto gerado aleatoriamente. Ideal para desafiar sua sorte e lógica! Desenvolvido com **HTML**, **CSS** e **JavaScript**, o jogo oferece uma experiência moderna e responsiva, incluindo feedbacks auditivos.
 
